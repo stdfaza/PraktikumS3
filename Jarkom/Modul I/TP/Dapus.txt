@@ -1,0 +1,5 @@
+Nugroho, K., & Kurniawan, A. Y. (2017). Uji performansi jaringan menggunakan kabel UTP dan STP. ELKOMIKA: Jurnal Teknik Energi Elektrik, Teknik Telekomunikasi, & Teknik Elektronika, 5(1), 48.
+Qadri, M., Utami, L., Tahir, T. B., Irwinsyah, I., & Asyifah, A. (2024). Pelatihan Berbagi Data Menggunakan Straight Dan Cross Over UTP Di SMA Negeri 21 Makassar. LOSARI: Jurnal Pengabdian Kepada Masyarakat, 6(1), 72-78.
+Zulkarnaen, I., & Aliyah, J. (2021). Perancangan Jaringan Menggunakan Router Switch Cisco Packet Tracer Pada Kantor Diskominfotik Provinsi Nusa Tenggara Barat. Jurnal Tambora, 5(2), 16-20.
+Syafrizal, M. (2020). Pengantar jaringan komputer. Penerbit Andi.
+Adriant, M. F., & Mardianto, I. M. (2016, April). Implementasi wireshark untuk penyadapan (sniffing) paket data jaringan. In PROSIDING SEMINAR NASIONAL CENDEKIAWAN.
